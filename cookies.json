@@ -1,0 +1,28 @@
+[
+  {
+    "domain": "my.lptracker.ru",
+    "expiry": 1723848393,
+    "httpOnly": false,
+    "name": "lptChatClientId",
+    "path": "/",
+    "secure": false,
+    "value": "1692744393372-63086"
+  },
+  {
+    "domain": ".lptracker.ru",
+    "httpOnly": false,
+    "name": "PHPSESSID",
+    "path": "/",
+    "secure": false,
+    "value": "s6uccpvbcpmi3rq65c954rk909"
+  },
+  {
+    "domain": ".lptracker.ru",
+    "expiry": 1724280388,
+    "httpOnly": true,
+    "name": "__ddg1_",
+    "path": "/",
+    "secure": false,
+    "value": "R6qncjsgcFKggvYcgPTP"
+  }
+]
